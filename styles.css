@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: #f37eff;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -46,11 +46,12 @@ section {
 
 #about {
     text-align: center;
-    background-color: #f4f4f4;
+    background-color: #f7c6fe;
 }
 
 #passions {
-    background-color: #fff;
+    text-align: center;
+    background-color: #c094ff;
 }
 
 .passions-grid {
