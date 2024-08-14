@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #f37eff;
+    background-color: #ee00d5;
     color: white;
     padding: 1rem 0;
     text-align: center;
@@ -38,6 +38,7 @@ nav ul li a {
     width: 100%;
     height: 100vh;
     object-fit: cover;
+    background-color: #7b00ee;
 }
 
 section {
