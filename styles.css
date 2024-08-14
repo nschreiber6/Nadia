@@ -46,7 +46,6 @@ section {
 }
 
 #about {
-    text-align: center;
     background-color: #f7c6fe;
 }
 
@@ -77,7 +76,7 @@ section {
 
 footer {
     text-align: center;
-    background-color: #333;
+    background-color: #ee00d5;
     color: white;
     padding: 1rem 0;
     margin-top: 2rem;
